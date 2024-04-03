@@ -20,7 +20,7 @@ I am a `quoted code`
 
 [I'm the UCSD Link](https://ucsd.edu)
 
-[I'm a section link. Going to heading 3!](#heading-3)
+[I'm a section link. Going to heading 3!](#here)
 
 [Wanna see another md file?](./other.md)
 
@@ -32,7 +32,9 @@ I am a `quoted code`
 2. cats
 3. turtles
 
+### here!
+
 - [ ] Click me!
 - [ ] No me!
 - [x] I got clicked!!
-- [ ] \(Optional) Don't have to click me...
+- [ ] Don't have to click me...
