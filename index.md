@@ -1,8 +1,14 @@
+Picture:
+
 ![alt text](image.png)
+
+Headings:
 
 # We are headings!!!
 ## Heading 2
 
+
+Styling Text:
 
 *I'm italicized :O*
 **I'm BOLD >:D**
@@ -12,17 +18,41 @@
 <sub>low...</sub>
 <sup>high!</sup>
 
+
 ### Heading 3
+
+Quoting Text:
 
 > I'm a quote :)
 
+
+Quoting Code:
+
 I am a `quoted code`
+
+
+External Link:
 
 [I'm the UCSD Link](https://ucsd.edu)
 
-[I'm a section link. Going to heading 3!](#here)
+[Youtube Link!](https://youtube.com)
+
+
+Section Link:
+
+[I'm a section link. Jumping!](#here)
+
+[Another section link. Go!](#heading-3)
+
+
+Relative Link:
 
 [Wanna see another md file?](./other.md)
+
+### here!
+
+
+Ordered/Unordered Lists:
 
 - lists
 - wow
@@ -32,9 +62,10 @@ I am a `quoted code`
 2. cats
 3. turtles
 
-### here!
+
+Task Lists:
 
 - [ ] Click me!
 - [ ] No me!
 - [x] I got clicked!!
-- [ ] Don't have to click me...
+- [ ] \(Optional) Don't have to click me...
