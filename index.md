@@ -35,7 +35,7 @@ External Link:
 
 [I'm the UCSD Link](https://ucsd.edu)
 
-[Youtube Link!](youtube.com)
+[Youtube Link!](https://youtube.com)
 
 
 Section Link:
